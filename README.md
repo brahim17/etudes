@@ -1,5 +1,5 @@
 # etudes
 
- - ORM :
+ * ORM :
 
-Hibernate case :
+ - Hibernate case :
